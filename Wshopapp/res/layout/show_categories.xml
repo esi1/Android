@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/showcategories_views"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#AFA7A7"
+    android:divider="#00000000"
+    android:dividerHeight="3dp" >
+
+</ListView>

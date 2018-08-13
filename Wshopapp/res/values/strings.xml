@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">Wshopapp</string>
+
+    <string name="create">Create</string>
+
+    <string name="password">Password</string>
+
+    <string name="email">Email</string>
+
+    <string name="product_rrp">Product rrp</string>
+
+    <string name="product_cost">Product cost</string>
+
+    <string name="product_description">Product description</string>
+
+    <string name="product_name">Product name</string>
+
+    <string name="login">Login</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="show_category">Show categories</string>
+
+    <string name="create_product">Create product</string>
+
+    <string name="create_category">Create category</string>
+
+    <string name="show_products">Show products</string>
+
+    <string name="welcome">WELCOME</string>
+
+    <string name="welcome_back_again">welcome back again</string>
+
+    <string name="category_name">Category name</string>
+
+    <string name="quantity">Quantity</string>
+
+    <string name="createshoppingbasket">Create shoppingbasket</string>
+
+    <string name="show_shoppingbasket">Show shoppingbasket</string>
+
+</resources>
